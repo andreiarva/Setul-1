@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\Problema19\Problema19\bin\Debug\Problema19.exe.config
+C:\Users\10\source\repos\Problema19\Problema19\bin\Debug\Problema19.exe
+C:\Users\10\source\repos\Problema19\Problema19\bin\Debug\Problema19.pdb
+C:\Users\10\source\repos\Problema19\Problema19\obj\Debug\Problema19.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\Problema19\Problema19\obj\Debug\Problema19.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\Problema19\Problema19\obj\Debug\Problema19.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\Problema19\Problema19\obj\Debug\Problema19.exe
+C:\Users\10\source\repos\Problema19\Problema19\obj\Debug\Problema19.pdb

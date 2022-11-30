@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\Problema17\Problema17\bin\Debug\Problema17.exe.config
+C:\Users\10\source\repos\Problema17\Problema17\bin\Debug\Problema17.exe
+C:\Users\10\source\repos\Problema17\Problema17\bin\Debug\Problema17.pdb
+C:\Users\10\source\repos\Problema17\Problema17\obj\Debug\Problema17.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\Problema17\Problema17\obj\Debug\Problema17.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\Problema17\Problema17\obj\Debug\Problema17.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\Problema17\Problema17\obj\Debug\Problema17.exe
+C:\Users\10\source\repos\Problema17\Problema17\obj\Debug\Problema17.pdb
