@@ -1,8 +1,0 @@
-C:\Users\10\source\repos\Problema7\Problema7\bin\Debug\Problema7.exe.config
-C:\Users\10\source\repos\Problema7\Problema7\bin\Debug\Problema7.exe
-C:\Users\10\source\repos\Problema7\Problema7\bin\Debug\Problema7.pdb
-C:\Users\10\source\repos\Problema7\Problema7\obj\Debug\Problema7.csproj.AssemblyReference.cache
-C:\Users\10\source\repos\Problema7\Problema7\obj\Debug\Problema7.csproj.SuggestedBindingRedirects.cache
-C:\Users\10\source\repos\Problema7\Problema7\obj\Debug\Problema7.csproj.CoreCompileInputs.cache
-C:\Users\10\source\repos\Problema7\Problema7\obj\Debug\Problema7.exe
-C:\Users\10\source\repos\Problema7\Problema7\obj\Debug\Problema7.pdb
