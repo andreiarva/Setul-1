@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\Problema2\Problema2\bin\Debug\Problema2.exe.config
+C:\Users\10\source\repos\Problema2\Problema2\bin\Debug\Problema2.exe
+C:\Users\10\source\repos\Problema2\Problema2\bin\Debug\Problema2.pdb
+C:\Users\10\source\repos\Problema2\Problema2\obj\Debug\Problema2.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\Problema2\Problema2\obj\Debug\Problema2.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\Problema2\Problema2\obj\Debug\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\Problema2\Problema2\obj\Debug\Problema2.exe
+C:\Users\10\source\repos\Problema2\Problema2\obj\Debug\Problema2.pdb
